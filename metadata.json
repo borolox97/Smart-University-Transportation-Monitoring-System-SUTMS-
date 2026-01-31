@@ -1,0 +1,7 @@
+{
+  "name": "SUTMS - Smart University Transportation Monitoring System",
+  "description": "A real-time university bus tracking system providing students with live bus locations, estimated arrival times, and an AI-powered transport assistant.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
